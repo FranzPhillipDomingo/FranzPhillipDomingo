@@ -1,16 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200" role="img" aria-labelledby="oz-title oz-desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" role="img" aria-labelledby="oz-title oz-desc">
   <title id="oz-title">Oz: Multiagent</title>
-  <desc id="oz-desc">A deployed OpenClaw-based multi-agent system configured with custom skills, cron automation. Stack: OpenClaw, Python, Google Cloud, OpenRouter.</desc>
-  <rect x="1" y="1" width="598" height="198" rx="12" fill="#171717" stroke="#364153" stroke-width="1"/>
-  <rect x="17" y="25" width="4" height="150" rx="2" fill="#fb2c36"/>
-  <path d="M552 25H575V48" fill="none" stroke="#364153" stroke-width="1"/>
+  <desc id="oz-desc">OpenClaw agents with custom skills. Cron automation across messaging channels. Stack: OpenClaw, Python, Google Cloud.</desc>
+  <rect x="1" y="1" width="598" height="218" rx="12" fill="#171717" stroke="#364153" stroke-width="1"/>
+  <rect x="2" y="14" width="4" height="192" fill="#fb2c36"/>
   <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="56" y="54" fill="#fafafa" font-size="26" font-weight="700">Oz: Multiagent</text>
-    <text fill="#d1d5dc" font-size="15">
-      <tspan x="56" y="91">A deployed OpenClaw-based multi-agent system</tspan>
-      <tspan x="56" y="115">configured with custom skills, cron automation</tspan>
-    </text>
-    <path d="M56 139H568" fill="none" stroke="#364153" stroke-width="1"/>
-    <text x="56" y="169" fill="#ff6568" font-size="13" letter-spacing="1">OpenClaw, Python, Google Cloud, OpenRouter</text>
+    <text x="56" y="56" fill="#fafafa" font-size="30" font-weight="700">Oz: Multiagent</text>
+    <text x="56" y="94" fill="#d1d5dc" font-size="18">OpenClaw agents with custom skills.</text>
+    <text x="56" y="120" fill="#d1d5dc" font-size="18">Cron automation across messaging channels.</text>
+    <text x="56" y="182" fill="#ff6568" font-size="14" letter-spacing="0.6">OpenClaw, Python, Google Cloud</text>
   </g>
 </svg>

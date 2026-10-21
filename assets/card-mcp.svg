@@ -1,16 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200" role="img" aria-labelledby="mcp-title mcp-desc">
-  <title id="mcp-title">MCP Live Agent Infrastructure</title>
-  <desc id="mcp-desc">An OAuth-protected Model Context Protocol server that gives AI agents read-only access to verified portfolio data. Stack: Next.js, TypeScript, OAuth 2.1, PKCE, Upstash Redis.</desc>
-  <rect x="1" y="1" width="598" height="198" rx="12" fill="#171717" stroke="#364153" stroke-width="1"/>
-  <rect x="17" y="25" width="4" height="150" rx="2" fill="#fb2c36"/>
-  <path d="M552 25H575V48" fill="none" stroke="#364153" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" role="img" aria-labelledby="mcp-title mcp-desc">
+  <title id="mcp-title">MCP Agent Infrastructure</title>
+  <desc id="mcp-desc">OAuth-protected MCP access for AI agents. Read-only access to verified portfolio data. Stack: Next.js, TypeScript, OAuth 2.1, PKCE.</desc>
+  <rect x="1" y="1" width="598" height="218" rx="12" fill="#171717" stroke="#364153" stroke-width="1"/>
+  <rect x="2" y="14" width="4" height="192" fill="#fb2c36"/>
   <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="56" y="54" fill="#fafafa" font-size="26" font-weight="700">MCP Live Agent Infrastructure</text>
-    <text fill="#d1d5dc" font-size="15">
-      <tspan x="56" y="91">An OAuth-protected Model Context Protocol server</tspan>
-      <tspan x="56" y="115">that gives AI agents read-only access to verified portfolio data</tspan>
-    </text>
-    <path d="M56 139H568" fill="none" stroke="#364153" stroke-width="1"/>
-    <text x="56" y="169" fill="#ff6568" font-size="13" letter-spacing="1">Next.js, TypeScript, OAuth 2.1, PKCE, Upstash Redis</text>
+    <text x="56" y="56" fill="#fafafa" font-size="30" font-weight="700">MCP Agent Infrastructure</text>
+    <text x="56" y="94" fill="#d1d5dc" font-size="18">OAuth-protected MCP access for AI agents.</text>
+    <text x="56" y="120" fill="#d1d5dc" font-size="18">Read-only access to verified portfolio data.</text>
+    <text x="56" y="182" fill="#ff6568" font-size="14" letter-spacing="0.6">Next.js, TypeScript, OAuth 2.1, PKCE</text>
   </g>
 </svg>

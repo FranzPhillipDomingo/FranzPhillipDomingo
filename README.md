@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/hero.svg" alt="Franz Phillip Domingo" width="100%"></p>
 
-## Selected work
+<p><img src="assets/label-work.svg" alt="SELECTED WORK" width="100%"></p>
 
 <table>
   <tbody>
@@ -21,7 +21,7 @@
 
 <p><img src="assets/divider.svg" alt="Section divider" width="100%"></p>
 
-## Stack
+<p><img src="assets/label-stack.svg" alt="STACK" width="100%"></p>
 
 - **Languages:** TypeScript, JavaScript, Python, Dart, Java, C++.
 - **Frontend:** Next.js, React, Tailwind CSS, Flutter, Three.js, React Three Fiber.
@@ -30,7 +30,7 @@
 
 <p><img src="assets/divider.svg" alt="Section divider" width="100%"></p>
 
-## Now
+<p><img src="assets/label-now.svg" alt="NOW" width="100%"></p>
 
 - Multi-agent orchestration with OpenClaw, custom skills, and cron automation.
 - Verified portfolio access for AI agents through MCP, Streamable HTTP, and OAuth with PKCE.

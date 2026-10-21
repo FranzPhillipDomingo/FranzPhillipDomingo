@@ -1,16 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200" role="img" aria-labelledby="crawler-title crawler-desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" role="img" aria-labelledby="crawler-title crawler-desc">
   <title id="crawler-title">Custom Multi-crawler System</title>
-  <desc id="crawler-desc">A Scrapy-based web crawler with custom Selenium integration, proxy rotation, and DynamoDB storage. Stack: Scrapy, Selenium, Python, DynamoDB, AWS, ECS.</desc>
-  <rect x="1" y="1" width="598" height="198" rx="12" fill="#171717" stroke="#364153" stroke-width="1"/>
-  <rect x="17" y="25" width="4" height="150" rx="2" fill="#fb2c36"/>
-  <path d="M552 25H575V48" fill="none" stroke="#364153" stroke-width="1"/>
+  <desc id="crawler-desc">Scrapy crawlers with Selenium integration. Proxy rotation and DynamoDB on AWS ECS. Stack: Scrapy, Selenium, Python, DynamoDB.</desc>
+  <rect x="1" y="1" width="598" height="218" rx="12" fill="#171717" stroke="#364153" stroke-width="1"/>
+  <rect x="2" y="14" width="4" height="192" fill="#fb2c36"/>
   <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="56" y="54" fill="#fafafa" font-size="26" font-weight="700">Custom Multi-crawler System</text>
-    <text fill="#d1d5dc" font-size="15">
-      <tspan x="56" y="91">A Scrapy-based web crawler with custom Selenium</tspan>
-      <tspan x="56" y="115">integration, proxy rotation, and DynamoDB storage</tspan>
-    </text>
-    <path d="M56 139H568" fill="none" stroke="#364153" stroke-width="1"/>
-    <text x="56" y="169" fill="#ff6568" font-size="13" letter-spacing="1">Scrapy, Selenium, Python, DynamoDB, AWS, ECS</text>
+    <text x="56" y="56" fill="#fafafa" font-size="30" font-weight="700">Custom Multi-crawler System</text>
+    <text x="56" y="94" fill="#d1d5dc" font-size="18">Scrapy crawlers with Selenium integration.</text>
+    <text x="56" y="120" fill="#d1d5dc" font-size="18">Proxy rotation and DynamoDB on AWS ECS.</text>
+    <text x="56" y="182" fill="#ff6568" font-size="14" letter-spacing="0.6">Scrapy, Selenium, Python, DynamoDB</text>
   </g>
 </svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="44" viewBox="0 0 1200 44" role="img" aria-labelledby="label-now-title">
+  <title id="label-now-title">NOW</title>
+  <text x="0" y="30" fill="#fb2c36" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">03</text>
+  <path d="M48 22H64 M160 22H1200" fill="none" stroke="#364153" stroke-width="1"/>
+  <text x="72" y="30" fill="#fafafa" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">NOW</text>
+</svg>
