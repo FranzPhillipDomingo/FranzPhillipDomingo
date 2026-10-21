@@ -1,12 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" role="img" aria-labelledby="pulsezero-title pulsezero-desc">
-  <title id="pulsezero-title">PulseZero</title>
-  <desc id="pulsezero-desc">Privacy-first fitness with local storage. Health analytics with no backend. Stack: Next.js, TypeScript, Recharts.</desc>
-  <rect x="1" y="1" width="598" height="218" rx="12" fill="#171717" stroke="#364153" stroke-width="1"/>
-  <rect x="2" y="14" width="4" height="192" fill="#fb2c36"/>
-  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="56" y="56" fill="#fafafa" font-size="30" font-weight="700">PulseZero</text>
-    <text x="56" y="94" fill="#d1d5dc" font-size="18">Privacy-first fitness with local storage.</text>
-    <text x="56" y="120" fill="#d1d5dc" font-size="18">Health analytics with no backend.</text>
-    <text x="56" y="182" fill="#ff6568" font-size="14" letter-spacing="0.6">Next.js, TypeScript, Recharts</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="312" viewBox="0 0 400 312" role="img" aria-labelledby="card-pulsezero-title card-pulsezero-desc">
+  <title id="card-pulsezero-title">PulseZero</title>
+  <desc id="card-pulsezero-desc">Privacy-first fitness with local storage. Health analytics with no backend. Stack: Next.js, TypeScript, Recharts.</desc>
+  <rect x="0.5" y="0.5" width="399" height="295" rx="12" fill="#171717" stroke="#364153"/>
+  <path d="M24 26H40" stroke="#fb2c36" stroke-width="3"/>
+  <text x="52" y="32" fill="#e5e7eb" font-family="Consolas, 'Liberation Mono', monospace" font-size="18">PRIVACY / FITNESS</text>
+  <path d="M352 36L368 20 M356 20H368V32" fill="none" stroke="#e5e7eb" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="24" y="80" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">PulseZero</text>
+  <text x="24" y="152" fill="#d1d5dc" font-family="Arial, Helvetica, sans-serif" font-size="18">Privacy-first fitness with</text>
+  <text x="24" y="180" fill="#d1d5dc" font-family="Arial, Helvetica, sans-serif" font-size="18">local storage. Health analytics</text>
+  <text x="24" y="208" fill="#d1d5dc" font-family="Arial, Helvetica, sans-serif" font-size="18">with no backend.</text>
+  <path d="M24 228H376" stroke="#364153"/>
+  <text x="24" y="252" fill="#d1d5dc" font-family="Consolas, 'Liberation Mono', monospace" font-size="18">Next.js / TypeScript</text>
+  <text x="24" y="280" fill="#d1d5dc" font-family="Consolas, 'Liberation Mono', monospace" font-size="18">Recharts</text>
 </svg>

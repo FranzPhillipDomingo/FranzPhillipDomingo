@@ -1,6 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="44" viewBox="0 0 1200 44" role="img" aria-labelledby="label-stack-title">
-  <title id="label-stack-title">STACK</title>
-  <text x="0" y="30" fill="#fb2c36" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">02</text>
-  <path d="M48 22H64 M184 22H1200" fill="none" stroke="#364153" stroke-width="1"/>
-  <text x="72" y="30" fill="#fafafa" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="3">STACK</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="64" viewBox="0 0 830 64" role="img" aria-labelledby="label-stack-title label-stack-desc">
+  <title id="label-stack-title">Stack</title>
+  <desc id="label-stack-desc">Section 02: Stack.</desc>
+  <rect width="830" height="64" rx="8" fill="#0a0a0a"/>
+  <text x="24" y="40" fill="#ff6568" font-family="Consolas, 'Liberation Mono', monospace" font-size="20">02</text>
+  <text x="72" y="40" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Stack</text>
+  <path d="M176 32H806" stroke="#364153"/>
 </svg>

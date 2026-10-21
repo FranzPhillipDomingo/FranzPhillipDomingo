@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="376" viewBox="0 0 400 376" role="img" aria-labelledby="hero-mobile-title hero-mobile-desc">
+  <title id="hero-mobile-title">Franz Phillip Domingo</title>
+  <desc id="hero-mobile-desc">Software engineer and digital creator in Manila, Philippines. Full-stack development, AI/ML, and scalable Next.js architectures. I build production-ready software.</desc>
+  <rect x="0.5" y="0.5" width="399" height="375" rx="12" fill="#0a0a0a" stroke="#364153"/>
+  <path d="M24 28H48" stroke="#fb2c36" stroke-width="4"/>
+  <text x="64" y="34" fill="#e5e7eb" font-family="Consolas, 'Liberation Mono', monospace" font-size="18">SOFTWARE ENGINEER</text>
+  <text x="64" y="58" fill="#e5e7eb" font-family="Consolas, 'Liberation Mono', monospace" font-size="18">DIGITAL CREATOR</text>
+  <text x="24" y="128" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" letter-spacing="-1">Franz Phillip</text>
+  <text x="24" y="176" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="700" letter-spacing="-1">Domingo</text>
+  <text x="24" y="224" fill="#e5e7eb" font-family="Arial, Helvetica, sans-serif" font-size="20">Full-stack development, AI/ML,</text>
+  <text x="24" y="252" fill="#e5e7eb" font-family="Arial, Helvetica, sans-serif" font-size="20">and scalable Next.js architectures.</text>
+  <text x="24" y="292" fill="#d1d5dc" font-family="Arial, Helvetica, sans-serif" font-size="18">I build production-ready software.</text>
+  <path d="M24 320H376" stroke="#364153"/>
+  <text x="24" y="352" fill="#d1d5dc" font-family="Consolas, 'Liberation Mono', monospace" font-size="18">Manila, Philippines</text>
+</svg>

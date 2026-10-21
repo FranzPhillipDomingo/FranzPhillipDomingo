@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="64" viewBox="0 0 400 64" role="img" aria-labelledby="label-work-mobile-title label-work-mobile-desc">
+  <title id="label-work-mobile-title">Selected work</title>
+  <desc id="label-work-mobile-desc">Section 01: Selected work.</desc>
+  <rect width="400" height="64" rx="8" fill="#0a0a0a"/>
+  <text x="24" y="40" fill="#ff6568" font-family="Consolas, 'Liberation Mono', monospace" font-size="18">01</text>
+  <text x="72" y="40" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Selected work</text>
+  <path d="M288 32H376" stroke="#364153"/>
+</svg>

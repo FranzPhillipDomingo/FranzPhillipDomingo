@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="64" viewBox="0 0 400 64" role="img" aria-labelledby="label-now-mobile-title label-now-mobile-desc">
+  <title id="label-now-mobile-title">Now</title>
+  <desc id="label-now-mobile-desc">Section 03: Now.</desc>
+  <rect width="400" height="64" rx="8" fill="#0a0a0a"/>
+  <text x="24" y="40" fill="#ff6568" font-family="Consolas, 'Liberation Mono', monospace" font-size="18">03</text>
+  <text x="72" y="40" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Now</text>
+  <path d="M160 32H376" stroke="#364153"/>
+</svg>
