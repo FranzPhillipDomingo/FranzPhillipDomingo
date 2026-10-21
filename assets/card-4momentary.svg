@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200" role="img" aria-labelledby="4momentary-title 4momentary-desc">
+  <title id="4momentary-title">4momentary</title>
+  <desc id="4momentary-desc">A zero-account, zero-database ephemeral communication protocol with multi-channel brutalist rooms. Stack: Next.js 16, React 19, TypeScript, WebRTC, PeerJS.</desc>
+  <rect x="1" y="1" width="598" height="198" rx="12" fill="#171717" stroke="#364153" stroke-width="1"/>
+  <rect x="17" y="25" width="4" height="150" rx="2" fill="#fb2c36"/>
+  <path d="M552 25H575V48" fill="none" stroke="#364153" stroke-width="1"/>
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="56" y="54" fill="#fafafa" font-size="26" font-weight="700">4momentary</text>
+    <text fill="#d1d5dc" font-size="15">
+      <tspan x="56" y="91">A zero-account, zero-database ephemeral</tspan>
+      <tspan x="56" y="115">communication protocol with multi-channel brutalist rooms</tspan>
+    </text>
+    <path d="M56 139H568" fill="none" stroke="#364153" stroke-width="1"/>
+    <text x="56" y="169" fill="#ff6568" font-size="13" letter-spacing="1">Next.js 16, React 19, TypeScript, WebRTC, PeerJS</text>
+  </g>
+</svg>

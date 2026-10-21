@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="hero-title hero-desc">
+  <title id="hero-title">Franz Phillip Domingo</title>
+  <desc id="hero-desc">Software engineer in Manila, Philippines. Full-stack, AI/ML, and Next.js.</desc>
+  <rect width="1200" height="300" fill="#0a0a0a"/>
+  <rect x="1.5" y="1.5" width="1197" height="297" fill="none" stroke="#364153" stroke-width="1"/>
+  <g fill="none" stroke="#171717" stroke-width="1" opacity="0.9">
+    <path d="M100 2V298"/>
+    <path d="M200 2V298"/>
+    <path d="M300 2V298"/>
+    <path d="M400 2V298"/>
+    <path d="M500 2V298"/>
+    <path d="M600 2V298"/>
+    <path d="M700 2V298"/>
+    <path d="M800 2V298"/>
+    <path d="M900 2V298"/>
+    <path d="M1000 2V298"/>
+    <path d="M1100 2V298"/>
+    <path d="M2 242H1198"/>
+  </g>
+  <path d="M32 67H21V220H32" fill="none" stroke="#fb2c36" stroke-width="2"/>
+  <rect x="56" y="44" width="96" height="6" fill="#fb2c36"/>
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="56" y="125" fill="#fafafa" font-size="62" font-weight="800" letter-spacing="1.6">FRANZ PHILLIP DOMINGO</text>
+    <text x="58" y="169" fill="#ff6568" font-size="20" letter-spacing="2">SOFTWARE ENGINEER / FULL-STACK, AI/ML, NEXT.JS</text>
+    <text x="58" y="207" fill="#d1d5dc" font-size="16">Manila, Philippines. I build production-ready software.</text>
+  </g>
+  <text x="1144" y="274" text-anchor="end" fill="#fb2c36" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">&gt; status: building</text>
+</svg>

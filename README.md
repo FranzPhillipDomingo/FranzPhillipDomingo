@@ -1,19 +1,25 @@
-<h1>Franz Phillip Domingo</h1>
-
-Software engineer and digital creator in Manila, Philippines, specializing in full-stack development, AI/ML, and scalable Next.js architectures.
-
-I build production-ready software, from computer vision on mobile to real-time web applications and AI agents. My work includes multi-agent orchestration, self-hosted deployments, and OAuth-protected MCP infrastructure for verified portfolio data.
+<p align="center"><img src="assets/hero.svg" alt="Franz Phillip Domingo" width="100%"></p>
 
 ## Selected work
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [LiftTrack](https://franzdomingo.dev/en/projects/lifttrack) | Mobile weightlifting technique analysis with posture tracking and real-time feedback. | Flutter, Dart, Python, 3D CNN, MoveNet |
-| [4momentary](https://franzdomingo.dev/en/projects/4momentary) | Ephemeral communication with zero-account rooms, 3D space radar, and BYOK AI companions. | Next.js 16, React 19, TypeScript, WebRTC, PeerJS |
-| [Oz: Multiagent](https://franzdomingo.dev/en/projects/oz-multiagent) | Deployed multi-agent system with custom skills, scheduled automation, and multi-channel integration. | OpenClaw, Python, Google Cloud, OpenRouter, REST API |
-| [Custom Multi-crawler System](https://franzdomingo.dev/en/projects/distributed-crawler) | Web crawler with Selenium integration, proxy rotation, and DynamoDB storage, deployed on AWS ECS. | Scrapy, Selenium, Python, DynamoDB, Docker |
-| [MCP Live Agent Infrastructure](https://franzdomingo.dev/en/projects/mcp-portfolio-cyberpunk) | OAuth-protected MCP server giving AI agents read-only access to verified portfolio data. | Next.js, TypeScript, Model Context Protocol, OAuth 2.1, Upstash Redis |
-| [PulseZero](https://franzdomingo.dev/en/projects/personal-fitness-website) | Privacy-first fitness and analytics engine with local-first storage and real-time health visualizations. | Next.js 15, TypeScript, Tailwind CSS v4, Recharts, Playwright E2E |
+<table>
+  <tbody>
+    <tr>
+      <td width="50%"><a href="https://franzdomingo.dev/en/projects/lifttrack"><img src="assets/card-lifttrack.svg" alt="LiftTrack" width="100%"></a></td>
+      <td width="50%"><a href="https://franzdomingo.dev/en/projects/4momentary"><img src="assets/card-4momentary.svg" alt="4momentary" width="100%"></a></td>
+    </tr>
+    <tr>
+      <td width="50%"><a href="https://franzdomingo.dev/en/projects/oz-multiagent"><img src="assets/card-oz.svg" alt="Oz: Multiagent" width="100%"></a></td>
+      <td width="50%"><a href="https://franzdomingo.dev/en/projects/distributed-crawler"><img src="assets/card-crawler.svg" alt="Custom Multi-crawler System" width="100%"></a></td>
+    </tr>
+    <tr>
+      <td width="50%"><a href="https://franzdomingo.dev/en/projects/mcp-portfolio-cyberpunk"><img src="assets/card-mcp.svg" alt="MCP Live Agent Infrastructure" width="100%"></a></td>
+      <td width="50%"><a href="https://franzdomingo.dev/en/projects/personal-fitness-website"><img src="assets/card-pulsezero.svg" alt="PulseZero" width="100%"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><img src="assets/divider.svg" alt="Section divider" width="100%"></p>
 
 ## Stack
 
@@ -22,10 +28,14 @@ I build production-ready software, from computer vision on mobile to real-time w
 - **AI and agents:** OpenClaw, Model Context Protocol, RAG, OpenRouter, 3D CNN, MoveNet.
 - **Infrastructure and security:** AWS, ECS, Docker, Google Cloud, DynamoDB, Upstash Redis, GitHub Actions, OAuth 2.1, PKCE.
 
+<p><img src="assets/divider.svg" alt="Section divider" width="100%"></p>
+
 ## Now
 
 - Multi-agent orchestration with OpenClaw, custom skills, and cron automation.
 - Verified portfolio access for AI agents through MCP, Streamable HTTP, and OAuth with PKCE.
 - Self-hosted Hermes Agent on a VPS with persistent memory, skills, and scheduled tasks.
 
-[Full case studies and writing](https://franzdomingo.dev)
+<p><img src="assets/divider.svg" alt="Section divider" width="100%"></p>
+
+<p align="center"><a href="https://franzdomingo.dev">Full case studies and writing at franzdomingo.dev</a></p>

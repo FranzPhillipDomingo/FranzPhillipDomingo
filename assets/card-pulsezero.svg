@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200" role="img" aria-labelledby="pulsezero-title pulsezero-desc">
+  <title id="pulsezero-title">PulseZero</title>
+  <desc id="pulsezero-desc">A privacy-first, zero-backend fitness OS &amp; analytics engine featuring zero-friction onboarding, local-first storage. Stack: Next.js 15, TypeScript, Tailwind CSS v4, Recharts.</desc>
+  <rect x="1" y="1" width="598" height="198" rx="12" fill="#171717" stroke="#364153" stroke-width="1"/>
+  <rect x="17" y="25" width="4" height="150" rx="2" fill="#fb2c36"/>
+  <path d="M552 25H575V48" fill="none" stroke="#364153" stroke-width="1"/>
+  <g font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="56" y="54" fill="#fafafa" font-size="26" font-weight="700">PulseZero</text>
+    <text fill="#d1d5dc" font-size="15">
+      <tspan x="56" y="91">A privacy-first, zero-backend fitness OS &amp; analytics engine</tspan>
+      <tspan x="56" y="115">featuring zero-friction onboarding, local-first storage</tspan>
+    </text>
+    <path d="M56 139H568" fill="none" stroke="#364153" stroke-width="1"/>
+    <text x="56" y="169" fill="#ff6568" font-size="13" letter-spacing="1">Next.js 15, TypeScript, Tailwind CSS v4, Recharts</text>
+  </g>
+</svg>
